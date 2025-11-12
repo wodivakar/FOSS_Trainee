@@ -3,9 +3,14 @@
 ---
 
 ### About Me
-<b>Name:</b> Divakar Bhatt <br>
-<b>Branch:</b> IT <br>
-<b>From:</b> Uttarakhand <br>
+**Name:**  
+Divakar Bhatt  
+
+**Branch:**  
+IT  
+
+**From:**  
+Uttarakhand  
 ---
 
 ### College Story
